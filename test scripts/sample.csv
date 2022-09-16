@@ -1,0 +1,11 @@
+,birth_place,simple_birthplace,mothers_age,race_hispanic_origin,education_mom,prenatal_began_month,simple_prenatal_began,prenatal_num,prenatal_recode,previous_cesarean,cesarean_num,risk_reported,ld_induction,ld_aug,ld_steroids,ld_antibiotics,ld_chorio,ld_anesthesia,delivery_method,trial_labor,delivery_recode,delivery_recode2,birth_attendant,pay,pay_recode,breastfed_discharge
+0,1,1,09,1,3,04,2,10,06,N,00,1,Y,N,N,Y,Y,Y,4,Y,3,2,2,5,4,Y
+1,1,1,09,1,6,03,1,15,09,N,00,0,Y,N,N,N,N,Y,1,X,1,1,3,2,2,Y
+2,1,1,11,1,8,03,1,08,05,N,00,1,Y,N,Y,N,N,Y,1,X,1,1,1,2,2,Y
+3,1,1,10,1,6,03,1,09,06,N,00,1,N,Y,N,N,N,Y,1,X,1,1,1,2,2,Y
+4,1,1,11,1,8,02,1,99,12,Y,02,0,N,N,N,N,N,N,4,N,4,2,1,2,2,Y
+5,1,1,10,4,3,02,1,11,07,N,00,1,Y,N,N,Y,N,Y,1,X,1,1,1,2,2,N
+6,1,1,09,1,4,04,2,08,05,N,00,1,Y,Y,N,N,N,N,4,Y,3,2,1,1,1,Y
+7,1,1,09,3,6,02,1,12,07,N,00,1,N,Y,N,N,N,Y,4,Y,3,2,1,6,4,Y
+8,1,1,06,6,2,03,1,11,07,N,00,1,N,N,N,Y,N,N,1,X,1,1,1,1,1,N
+9,1,1,09,5,3,07,3,06,04,N,00,1,Y,N,N,N,N,Y,4,Y,3,2,1,1,1,Y
